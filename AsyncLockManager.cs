@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Kodak.RISr2.Lib.util
+namespace Lib.util
 {
     public class AsyncLockManager : IDisposable
     {
